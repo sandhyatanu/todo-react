@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+.Completed {
+  text-decoration: line-through;
+}
+#para {
+  margin: 10px;
+}
