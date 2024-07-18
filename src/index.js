@@ -1,6 +1,6 @@
-#Importing the packages
+//Importing the packages
 
-#Adding comment from newBranch
+//Adding comment from newBranch
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
